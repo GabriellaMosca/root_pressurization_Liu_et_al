@@ -1,0 +1,2 @@
+*.mdxm filter=lfs diff=lfs merge=lfs -text
+root_subd10_aniso_40_1200_nu0d16_assigned.mdxm filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,42 @@
+FemMembranes.cpp
+FemMembranes.hpp
+FemMembranes.mdxv
+FemMembranes.qrc
+FemMembranes.png
+MeshTrimmedSubdivided1_growthAssignedInflated_GrownTime_25_physicalTime12d5.mdxm
+MeshTrimmedSubdivided1_growthAssigned.mdxm
+MeshTrimmedSubdivided1_growthAssignedInflated.mdxm
+MeshTrimmedSubdivided1.mdxm
+MiddleCells.txt
+RearCells.txt
+TipCells.txt
+description.txt
+Makefile
+ignore:
+MorphoDynamX.py
+*.o
+*.so
+*
+Run:
+	gnome-terminal -x bash -c "make run"
+
+LabTable:
+	xdg-open .
+
+LabTableShell:
+	OBJSHELL
+
+DynamXHelp:
+	xdg-open /usr/local/share/doc/MorphoDynamX/html/index.html
+
+Files:
+	Model:
+		OBJED FemMembranes.cpp
+	Header:
+		OBJED FemMembranes.hpp
+	Parameters:
+		OBJED FemMembranes.mdxp
+	Description:
+		OBJED FemMembranes.txt
+	Specifications:
+		OBJED specifications
