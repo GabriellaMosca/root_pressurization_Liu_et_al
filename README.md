@@ -1,4 +1,6 @@
-# root_pressurization_Liu_et_al  [![DOI](https://zenodo.org/badge/395295069.svg)](https://zenodo.org/badge/latestdoi/395295069)
+# root_pressurization_Liu_et_al 
+ 
+[![DOI](https://zenodo.org/badge/395295069.svg)](https://zenodo.org/badge/latestdoi/395295069)
 Pressurization Model for Liu et al.
 
 The following installation was tested on Ubuntu 20.04
